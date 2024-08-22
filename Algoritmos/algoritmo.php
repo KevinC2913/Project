@@ -20,6 +20,7 @@ if ($numero2 < $nMenor) {
 }
 if ($numero3 < $nMenor) {
     $nMenor = $numero3;
+    
 }
 echo ("el mayor es: $nMayor\n" );
 echo ("el menor es: $nMenor\n" );
